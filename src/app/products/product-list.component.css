@@ -1,0 +1,16 @@
+.table>.my-thead>*>* { /* level up */
+    border-bottom: 2px solid #ccc; /* Bottom border */
+    padding: 10px; /* Padding */
+    color: #1a75ff;
+}
+.table>.body-main>*>* {
+    font-family: "Times New Roman", Times, serif;
+    background-color: white; /* Background color */
+    color: black; /* Text color */
+    /* Add more styles as needed */
+    /* For example: */
+}
+
+.col-md-2 {
+    font-weight: 700;
+}
